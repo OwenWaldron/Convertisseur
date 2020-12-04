@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Convertisseur</string>
+    <string name="TODO" />
+    <string name="con">Convertir</string>
+    <string name="val">Valeur</string>
+    <string name="reset">Reset</string>
+    <string name="quit">Quité</string>
+</resources>
